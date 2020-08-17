@@ -15,7 +15,7 @@ keywords = ["specs", "scenegraph", "hierarchy"]
 [dependencies]
 hibitset = { version = "0.6.3", default-features = false }
 #specs = { rev = "0.16.1", default-features = false, features = ["shred-derive"] }
-specs = { git = "https://github.com/adamnemecek/specs", rev = "49224e6", features = ["shred-derive"]  }
+specs = { git = "https://github.com/adamnemecek/specs", rev = "e52e20b", features = ["shred-derive"]  }
 shrev = "1.1.1"
 
 [features]
